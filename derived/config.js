@@ -6,13 +6,13 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['27782182246']
-global.ownMain = '27782182246'
-global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
+global.owner = ['994709116375']
+global.ownMain = '994709116375'
+global.NamaOwner = '📺|テレビ 3.0' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = '𝐉𝐢𝐧𝐱-𝐕1' //
-global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
+global.author = '📺|テレビ 3.0' //
 global.packname = '𝐉𝐢𝐧𝐱-𝐕1' //
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.welcome = false
@@ -30,7 +30,7 @@ global.mess = { //
 ingroup: 'This feature can only be used in groups.',
 admin: 'This feature is specifically for group admins.',
 notadmin: "The bot must be an admin first",
-owner: 'You are not 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒.',
+owner: 'You are not 📺|テレビ 3.0.',
 premium: 'You are not a premium user.',
 seller: 'This feature can only be used by resellers and owners.',
 usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid?`,
